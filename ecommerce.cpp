@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include <cctype> // For toupper()
+#include <cctype>
 
 using namespace std;
 
